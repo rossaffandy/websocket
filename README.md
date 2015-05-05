@@ -18,6 +18,8 @@ composer install
 ```
 
 #Running
+```
 1) Execute bin/push-server.php in terminal (In future, run through supervisord as daemon)
 2) Open pusher.php in browser
 3) Execute push.php in other terminal
+```
